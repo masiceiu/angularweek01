@@ -8,7 +8,7 @@ import { AboutComponent } from './pages/about/about.component';
 import { SupportComponent } from './pages/support/support.component';
 import { ResourcesComponent } from './pages/resources/resources.component';
 import { PageNotFoundComponent } from './pages/page-not-found/page-not-found.component';
-import { HeaderComponent } from './common/header/header/header.component';
+import { HeaderComponent } from './common/header/header.component';
 
 @NgModule({
   declarations: [
